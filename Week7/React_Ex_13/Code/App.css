@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.section {
+  width: 30%;
+}
+
+.v1, .st2, .mystyle1 {
+  border-left: 4px solid green;
+  padding-left: 15px;
+}
