@@ -1,0 +1,7 @@
+AppData/
+*.DAT
+*.regtrans-ms
+*.ini
+*.log
+*.m
+*.orig
